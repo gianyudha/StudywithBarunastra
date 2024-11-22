@@ -1,3 +1,4 @@
-| Nama  | Division        | Sub-Division  |
-| ----- | ---------- | ---------- |
-| Muhammad Gian Yudha Prawira | ELC | Microcontroller |
+| Nama  | Division | Sub-Division  |
+| ----- | --------- | ---------- |
+| Muhammad Gian Yudha Prawira |ELC| Microcontroller |
+
