@@ -45,5 +45,33 @@
     git commit -m "(deskripsi bebas)"
     git push origin (branch yang akan ingin diunggah)
 
+## Membuat Branch Baru Menggunakan Git 
+### 1. Buka Git Bash pada File yang Terhubung dengan Repositori
+### 2. Masukkan Command Berikut Pada Git Bash
+    git checkout -B (nama branch yang diinginkan)
+### 3. Untuk Pindah Branch Dapat Memasukkan Command Berikut
+    git branch -d (nama branch yang ingin dihapus)
+
+## Menghapus Branch Menggunakan Git
+### 1. Lakukan Pindah Branch dengan Command Berikut
+    git checkout (nama branch yang diinginkan)
+### 2. Hapus Branch yang Diingikan dengan Command Berikut
+    git branch -d (nama branch yang ingin dihapus)
+
+## Menggabungkan Brench
+### 1. Pindah ke branch yang ingin digabung:
+    git checkout (nama branch)
+### 2. Gabungkan branch lain ke branch saat ini:
+    git merge nama-branch-lain
+
+## Kloning Repositori
+### 1. Masuk ke Git Bash pada Folder yang diingkan
+### 2. Masukkan Command Berikut:
+    git clone https://github.com/(namapengguna)/(namarepositori).git
+
+## Melihat riwayat Commit
+### 1. Masuk ke Git Bash pada Folder yang diingkan
+### 2. Untuk melihat riwayat commit dalam repository:
+    git log
 
     
