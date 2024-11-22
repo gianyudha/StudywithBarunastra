@@ -65,12 +65,12 @@
     git merge nama-branch-lain
 
 ## Kloning Repositori
-### 1. Masuk ke Git Bash pada Folder yang diingkan
+### 1. Masuk ke Git Bash pada Folder yang diinginkan
 ### 2. Masukkan Command Berikut:
     git clone https://github.com/(namapengguna)/(namarepositori).git
 
 ## Melihat riwayat Commit
-### 1. Masuk ke Git Bash pada Folder yang diingkan
+### 1. Masuk ke Git Bash pada Folder yang diinginkan
 ### 2. Untuk melihat riwayat commit dalam repository:
     git log
 
