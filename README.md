@@ -55,7 +55,7 @@
 ## Menghapus Branch Menggunakan Git
 ### 1. Lakukan Pindah Branch dengan Command Berikut
     git checkout (nama branch yang diinginkan)
-### 2. Hapus Branch yang Diingikan dengan Command Berikut
+### 2. Hapus Branch yang Diinginkan dengan Command Berikut
     git branch -d (nama branch yang ingin dihapus)
 
 ## Menggabungkan Brench
